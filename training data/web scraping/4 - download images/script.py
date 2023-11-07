@@ -2,6 +2,7 @@ import os
 import requests
 from urllib.parse import urlparse
 import json
+import time
 
 json_file_path = "brand_images.json"
 
