@@ -56,7 +56,7 @@
     "Version": 2,
     "Subsampling": false,
     "Type": "ClassificationTrainingOption",
-    "TrainingTime": 2147483647,
+    "TrainingTime": 0,
     "ValidationOption": {
       "Version": 0,
       "Type": "TrainValidateSplitValidationOption",
