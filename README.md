@@ -1,1 +1,1 @@
-app icon: [](www.flaticon.com)
+app icon: [flaticon.com](www.flaticon.com)
